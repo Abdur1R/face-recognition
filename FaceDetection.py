@@ -1,4 +1,3 @@
-import cv2
 from deepface import DeepFace
 
 cap = cv2.VideoCapture(0)
